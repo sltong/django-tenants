@@ -195,7 +195,7 @@ The following needs to be added to the setting file
                      'django.contrib.admin',
                      'django.contrib.sessions',
                      'django.contrib.messages',
-                     # type1 apps here
+                     # type2 apps here
                      ],
             "URLCONF": "tenant_multi_types_tutorial.urls_type2",
         }
